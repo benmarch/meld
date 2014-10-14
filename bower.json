@@ -1,0 +1,9 @@
+{
+  "name": "mattwhipple-meld",
+  "version": "0.1.0",
+  "main": "meld.js",
+  "ignore": [
+    ".git"
+  ]
+}
+
